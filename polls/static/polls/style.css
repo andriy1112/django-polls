@@ -1,0 +1,9 @@
+li a {
+    color: green;
+    background-color: transparent;
+}
+
+body{
+    background: #141121 url("images/background.jpg") no-repeat;
+    background-size: 100%;
+}
